@@ -1,0 +1,4 @@
+{
+  "artecrobo": "Control Package for ArtecRobo"
+  ,"artecrobo.moveDCMotor|block": "DCモーターを動かすもしくは止める"
+}
